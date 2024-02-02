@@ -76,7 +76,8 @@ public class Ejercicio2 {
         System.out.println("Expresión infija: " + expresionInfija);
         System.out.println("Expresión postfija: " + postfija);
       
-   
+        System.out.println("ola");
+        System.out.println("probandofdsfsd");
     }
     
     
